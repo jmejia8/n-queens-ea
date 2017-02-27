@@ -19,7 +19,7 @@ e ingresar datos solicitado.
 Para entradas por defecto (1000 individuos de la población, 1000 iteraciones y 0.1 de probabilidad para la matación).
 
 ```
-./main < input
+./main < input.txt
 ```
 
 ## Ejemplo de Salida
